@@ -1,5 +1,3 @@
-# src/evaluate_model.py
-
 import pandas as pd
 import numpy as np
 import tensorflow as tf
